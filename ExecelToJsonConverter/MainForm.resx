@@ -184,7 +184,7 @@
     <value>2</value>
   </data>
   <data name="btnBrowser.Text" xml:space="preserve">
-    <value>Browser</value>
+    <value>Browse</value>
   </data>
   <data name="&gt;&gt;btnBrowser.Name" xml:space="preserve">
     <value>btnBrowser</value>
